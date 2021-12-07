@@ -14,4 +14,4 @@ Kommandos im Terminal::
 eval $(ssh-agent -s)
 ssh -add
 Verzeichnis für Synchronisation anlegen
-git clone "ssh-Key aus Github"
+git clone "ssh-Key aus Github" (liegt im Github -Seite Repository unter Code)
