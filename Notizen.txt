@@ -1,0 +1,10 @@
+Notizen
+Git-Kommandos:
+init →GIT – Initalisierung des jeweiligen Verzeichnisses
+ add → unter Angabe des Dateinamens zur Aufnahme im GIT
+commit -m „Kommentar“ , zur Bestätigung
+
+weitere Kommandos:
+status, log,  checkout
+checkout -b „Name Branch“ zum Branchwechsel
+merge - zusammenführen
