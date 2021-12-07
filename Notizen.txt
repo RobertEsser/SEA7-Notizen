@@ -10,3 +10,4 @@ checkout -b „Name Branch“ zum Branchwechsel
 merge - zusammenführen
 
 GITHUB
+kommt noch
