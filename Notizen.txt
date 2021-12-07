@@ -9,6 +9,9 @@ status, log,  checkout
 checkout -b „Name Branch“ zum Branchwechsel
 merge - zusammenführen
 
-GITHUB
-kommt noch
-kommt noch mehr
+Einmalige GITHUB Einrichtung
+Kommandos im Terminal::
+eval $(ssh-agent -s)
+ssh -add
+Verzeichnis für Synchronisation anlegen
+git clone "ssh-Key aus Github"
