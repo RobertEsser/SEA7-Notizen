@@ -8,3 +8,5 @@ weitere Kommandos:
 status, log,  checkout
 checkout -b „Name Branch“ zum Branchwechsel
 merge - zusammenführen
+
+GITHUB
