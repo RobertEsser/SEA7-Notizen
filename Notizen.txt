@@ -5,7 +5,7 @@ init →GIT – Initalisierung des jeweiligen Verzeichnisses
 commit -m „Kommentar“ , zur Bestätigung
 
 weitere Kommandos:
-status, log,  checkout
+status, log,  checkout, branch
 checkout -b „Name Branch“ zum Branchwechsel
 merge - zusammenführen
 
@@ -15,3 +15,7 @@ eval $(ssh-agent -s)
 ssh -add
 Verzeichnis für Synchronisation anlegen
 git clone "ssh-Key aus Github" (liegt im Github -Seite Repository unter Code)
+
+git fetch - zwecks sync
+git branch -a - zeigt alle Branches
+git checkout --track "Name Branch mit Remotepfad"
