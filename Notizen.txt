@@ -17,3 +17,4 @@ Verzeichnis für Synchronisation anlegen
 git clone "ssh-Key aus Github" (liegt im Github -Seite Repository unter Code)
 
 git fetch - zwecks sync
+git branch -a - zeigt alle Branches
