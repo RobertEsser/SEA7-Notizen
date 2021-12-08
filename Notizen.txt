@@ -1,5 +1,5 @@
 Notizen
-Git-Kommandos:
+Git- Kommandos:
 init →GIT – Initalisierung des jeweiligen Verzeichnisses (nicht doppelt machen)
  add → unter Angabe des Dateinamens zur Aufnahme im GIT
 commit -m „Kommentar“ , zur Bestätigung
