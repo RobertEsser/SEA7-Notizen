@@ -21,4 +21,4 @@ git branch -a - zeigt alle Branches
 git checkout --track "Name Branch mit Remotepfad"
 git push bzw. pull zwecks übertragen/holen zur/vom github
 ***Aenderung auf dem Hub*****
-***Aenderung 2 auf dem Hub*****
+***Aenderung 333 auf dem Hub*****
